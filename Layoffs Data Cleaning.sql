@@ -1,5 +1,5 @@
 -- Data Cleaning 
-
+-- I have removed many of my select statements here just for sake of making it easier for any viewing to read my functions
 SELECT * 
 FROM layoffs_staging;
 
